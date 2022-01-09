@@ -1,9 +1,9 @@
-## Hey! I'm Álvaro Ferreira 👋
+## Hey! I'm Álvaro 👋
 </br>
 
-#### I'm an industrial engineering student passionate about solving problems and learning new things.
+#### I'm a software engineering student who loves to solve problems.
 
-#### I'm currently learning <strong>Javascript</strong>, <strong>Node.js</strong> and <strong>SQL</strong>.
+<p> I'm currently learning how to code <strong>Javascript</strong>, <strong>Node.js</strong> and <strong>SQL</strong>.</p>
 
 </br>
 <div align="center">
