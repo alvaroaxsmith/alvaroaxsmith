@@ -17,7 +17,7 @@
   
   ## 
 
-  #### You can find me on:
+  #### You can reach me at:
   </br>
  
 <div> 
