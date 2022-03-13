@@ -3,7 +3,7 @@
 
 I am a software engineering student who loves to solve problems.
 
-<p> I'm currently learning <strong>backend</strong> web development technologies like <strong>Node.js</strong>, <strong>PHP<strong/>, <strong>C#</strong> and <strong>Java</strong> ...</p>
+<p> I'm currently learning <strong>backend</strong> web development technologies like <strong>Node.js</strong> and <strong>Spring Boot (Java)</strong> ...</p>
 
 </br>
 <div align="center">
