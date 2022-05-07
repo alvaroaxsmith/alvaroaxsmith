@@ -2,7 +2,7 @@
 </br>
 My name is Alvaro Ferreira, I'm a software engineering student.
 
-I love open-source, developing new projects and hackathons.
+I love open-source, developing new projects, ideas and hackathons.
 
 🌱 I'm currently focusing my studies on frontend web development with the Angular framework.
 
