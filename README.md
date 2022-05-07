@@ -1,11 +1,15 @@
-## Hey! I'm Álvaro Ferreira 👋
+## Hi there 👋
+</br>
+My name is Alvaro Ferreira, I'm a software engineering student.
+
+I love open-source, developing new projects and hackathons.
+
+🌱 I'm currently focusing my studies on frontend web development with the Angular framework.
+
 </br>
 
-I am a software engineering student who loves to solve problems.
+#### ⭐ GitHub Statistics:
 
-<p> I'm currently learning <strong>backend</strong> web development technologies like <strong>Node.js</strong> and <strong>Spring Boot (Java)</strong> ...</p>
-
-</br>
 <div align="center">
   <a href="https://github.com/alvaroaxsmith">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroaxsmith&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,7 +21,7 @@ I am a software engineering student who loves to solve problems.
   
   ## 
 
-  #### You can reach me at:
+  #### 📫 Reach me on:
   </br>
  
 <div> 
