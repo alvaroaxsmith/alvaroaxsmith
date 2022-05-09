@@ -1,8 +1,10 @@
 ## Hi there 👋 My name is Alvaro - welcome to my GitHub!
+
 </br>
+
 🎓 I'm a software engineering student.
 
-👨‍💻 I love open-source, developing new projects and hackathons.
+💻 I love open-source, developing new projects and hackathons.
 
 🌱 I’m currently learning the MEAN stack.
 
