@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi there 👋 My name is Alvaro - welcome to my GitHub!
 </br>
-My name is Alvaro Ferreira, I'm a software engineering student.
-
-I love open-source, developing new projects and hackathons.
-
+🎓 I'm a software engineering student.
+👨‍💻 I love open-source, developing new projects and hackathons.
+🌱 I’m currently learning the MEAN stack.
 
 </br>
 
