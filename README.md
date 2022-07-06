@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Alvaro - welcome to my GitHub!
+## Hi there 👋 my name is Alvaro - welcome to my GitHub!
 
 </br>
 
