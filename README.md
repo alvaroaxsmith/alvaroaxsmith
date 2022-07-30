@@ -11,7 +11,7 @@
 </br>
 
 #### ⭐ GitHub Statistics:
-
+![](https://raw.githubusercontent.com/alvaroaxsmith/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 <div align="center">
   <a href="https://github.com/alvaroaxsmith">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroaxsmith&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
