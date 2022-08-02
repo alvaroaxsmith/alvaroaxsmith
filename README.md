@@ -6,16 +6,20 @@
 
 💻 I love open-source, developing new projects and hackathons.
 
-🌱 I’m currently learning the MEAN stack.
+✍️ In my free time, I like to play [chess](https://www.chess.com/member/ferreiraalvaro), listen to podcasts and make guitar music.
+
+📄 Check my [page](https://www.alvaromachadoferreira.tech/) to get to know me a little better.
+
 
 </br>
 
-#### ⭐ GitHub Statistics:
+#### 📈 GitHub Statistics:
+
+
 
 <div align="center">
-  
-  ![](https://raw.githubusercontent.com/alvaroaxsmith/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+  ![](https://raw.githubusercontent.com/alvaroaxsmith/github-profile/master/profile-summary-card-output/dracula/0-profile-details.svg)
   
   <a href="https://github.com/alvaroaxsmith">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroaxsmith&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -24,6 +28,8 @@
 <div style="display: inline_block"><br>
 
 </div>
+
+
   
   ## 
 
