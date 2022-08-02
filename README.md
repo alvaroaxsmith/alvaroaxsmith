@@ -19,7 +19,6 @@
 
 <div align="center">
 
-  ![](https://raw.githubusercontent.com/alvaroaxsmith/github-profile/master/profile-summary-card-output/dracula/0-profile-details.svg)
   
   <a href="https://github.com/alvaroaxsmith">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroaxsmith&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
