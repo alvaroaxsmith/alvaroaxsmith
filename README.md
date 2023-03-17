@@ -2,7 +2,7 @@
 
 </br>
 
-🎓 I'm a software engineering student.
+🎓 I'm a software engineer.
 
 💻 I love open-source, developing new projects and hackathons.
 
