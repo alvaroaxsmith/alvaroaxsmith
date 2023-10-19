@@ -8,7 +8,7 @@
 
 ✍️ In my free time, I like to play [chess](https://www.chess.com/member/ferreiraalvaro), listen to podcasts and play guitar.
 
-📄 Check my [page](https://www.alvaromachadoferreira.tech/) to get to know me a little better.
+📄 Check my [page]([https://www.alvaromachadoferreira.tech](https://portfolio-git-main-alvaroaxsmith.vercel.app/)/) to get to know me a little better.
 
 
 </br>
