@@ -4,10 +4,6 @@
 
 🎓 I'm a software engineer.
 
-💻 I love open-source, developing new projects and hackathons.
-
-✍️ In my free time, I like to play [chess](https://www.chess.com/member/ferreiraalvaro), listen to podcasts and play guitar.
-
 📄 Check my [page](https://portfolio-git-main-alvaroaxsmith.vercel.app/) to get to know me a little better.
 
 
